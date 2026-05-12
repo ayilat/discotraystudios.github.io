@@ -99,6 +99,15 @@ sections:
         text: Very Fond of Lemurs
         image: assets/img/members/DrGoadrich.png
         url: 'http://mark.goadrich.com/'
+      - title: DYLAN CARTER
+        text: Big Solitaire Fan
+        image: assets/img/members/Dylan.png
+        url: 'https://wp.dylwcar.com/'
+  - type: members.html
+    section_id: members
+    title: Our Alumni!
+    background_style: bg-warning text-white
+    members:
       - title: AMELIA JONES
         text: 01001000 01101001
         image: assets/img/members/Amelia.jpg
@@ -107,10 +116,6 @@ sections:
         text: Little Caesars Enthusiast
         image: assets/img/members/Colten.jpg
         url: 'https://coltenberry.github.io/Blog/'
-      - title: DYLAN CARTER
-        text: Big Solitaire Fan
-        image: assets/img/members/Dylan.png
-        url: 'https://wp.dylwcar.com/'
       - title: LOGAN O'ROARK
         text: Avid Football Fan
         image: assets/img/members/Logan.jpg
@@ -119,11 +124,6 @@ sections:
         text: Lady of Languages
         image: assets/img/members/Eden.jpg
         url: 'https://denrobbinsdts.home.blog/'
-  - type: members.html
-    section_id: members
-    title: Our Alumni!
-    background_style: bg-warning text-white
-    members:
       - title: ELLIOT ALLEN
         text: HDX World Heavyweight Champion
         image: assets/img/members/SquareElliot.jpg
