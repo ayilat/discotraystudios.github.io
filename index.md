@@ -103,6 +103,10 @@ sections:
         text: Big Solitaire Fan
         image: assets/img/members/Dylan.png
         url: 'https://wp.dylwcar.com/'
+      - title: BRYSON DeLOZIER
+        text: Ramen Noodle Enthusiast
+        image: assets/img/members/Bryson.png
+        url: 'https://brysondddelozier.github.io/blog/'
       - title: ANNABEL MEHARI
         text: Walking Side Quest
         image: assests/img/members/Annabel.jpeg
