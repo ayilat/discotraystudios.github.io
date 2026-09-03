@@ -103,6 +103,10 @@ sections:
         text: Big Solitaire Fan
         image: assets/img/members/Dylan.png
         url: 'https://wp.dylwcar.com/'
+      - title: ANNABEL MEHARI
+        text: Walking Side Quest
+        image: assests/img/members/Annabel.jpeg
+        url: 'https://github.com/Annabelx61'
   - type: members.html
     section_id: members
     title: Our Alumni!
